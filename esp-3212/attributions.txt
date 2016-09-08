@@ -1,0 +1,1 @@
+I used MacroYau's esp32 [Eagle library](https://github.com/MacroYau/MacroYau-Eagle-Libraries/blob/master/esp32.lbr) to produce this design.
